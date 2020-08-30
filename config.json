@@ -1,0 +1,10 @@
+{
+  "mysql_uri": "mysql://localhost",
+  "mysql_user": "root",
+  "mysql_password": "",
+  "mysql_dbname": "srs",
+  "seat_payment_threshold_time_sec": 120,
+  "redis_url": "localhost",
+  "redis_port" : 6379,
+  "redis_password":"mS7B2xH19184M7P"
+}
